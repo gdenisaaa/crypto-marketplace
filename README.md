@@ -1,3 +1,7 @@
+This project is part of my journey as a junior web developer learning React. I built it to practice real-world concepts like API fetching, routing, state management with React Query, and responsive UI using TailwindCSS. It started as a small idea, but it’s becoming a space where I experiment, break things, fix them, and grow as a developer. My goal is to make the code cleaner, the UI smoother, and keep improving as I learn.
+
+You can visit the website here --> https://crypto-dashboarddd.netlify.app
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
